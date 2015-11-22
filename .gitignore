@@ -1,4 +1,10 @@
+.lock
+*~
 *.class
+*.jpage
+
+/bootwebserver/bin
+/bootwebserver/target
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
